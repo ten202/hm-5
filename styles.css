@@ -1,0 +1,46 @@
+h1 {
+    text-decoration: overline;
+}
+
+.orange {
+    color: aqua;
+}
+#black {
+    font-weight: bold;
+}
+a[href*="apple"] {
+    text-decoration: none;
+}
+div > span {
+    background-color:brown;
+}
+
+p b {
+    text-decoration: underline;
+}
+
+p span ~ em {
+    color: deeppink;
+    background-color: black;
+}
+
+h2 + p {
+    color: blue;
+}
+
+nav li {
+    font-family: fantasy;
+}
+
+div .aria {
+    background-color: darkmagenta;
+}
+
+p + em {
+    color: darkgreen;
+}
+
+div ~ h2 {
+    background-color: blueviolet;
+}
+
