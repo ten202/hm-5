@@ -8,7 +8,7 @@ h1 {
 #black {
     font-weight: bold;
 }
-a[href*="apple"] {
+a[href*="google"] {
     text-decoration: none;
 }
 div > span {
